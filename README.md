@@ -2,6 +2,3 @@
 
 Este proyecto tiene el fin de facilitar la tarea de calcular el área de un rectangulo, pudiendose utilizar en aplicaciones de calculadora si se desea
 
-## Nueva linea de texto para prueba ##
-
-Prueba
